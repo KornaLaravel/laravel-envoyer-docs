@@ -48,6 +48,10 @@ You may also need to whitelist the [Health Check IP addresses](/projects/managem
 
 Envoyer provides a powerful API that allows you to manage your servers programmatically, providing access to the vast majority of Envoyer features. You can find the Envoyer API documentation [here](https://envoyer.io/api-documentation).
 
+## Limitations
+
+Envoyer is not necessary for applications running [Laravel Octane](https://github.com/laravel/octane), as Octane already includes zero-downtime deployments out of the box.
+
 ## Found Something Wrong?
 
 If you find something in the documentation that is misleading or outright wrong, please consider submitting a pull request on [GitHub](https://github.com/laravel/envoyer-docs).
